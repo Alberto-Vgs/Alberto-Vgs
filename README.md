@@ -9,7 +9,7 @@ Hola amigo, gracias por pasar por aquí, yo soy Alberto Vargas.
 <p><em>Ingenieria en Software en <a href="https://upsrj.edu.mx/">Universidad Politecnica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Tecnico en Informatica en <a href="https://www.conalep.edu.mx/">Conalep</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p></div>
 
-<img align='right' src="https://c.tenor.com/k1tDp7A1ys8AAAAM/programmer-developer.gif" width="250">
+<img align='right' src="https://c.tenor.com/k3BNIDqMr6QAAAAC/hacking-hacker.gif" width="350">
 
 ```python
 import SoftwareDeveloper
