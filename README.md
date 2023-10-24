@@ -14,19 +14,19 @@ Hola amigo, gracias por pasar por aquí, yo soy Alberto Vargas.
 ```python
 import SoftwareDeveloper
 
-class Alberto_vgs:
+class alberto_vgs:
 
     def __init__(self):
-        self.username = 'Alberto-vgs'
+        self.username = 'alberto-vgs'
         self.name = 'Alberto Vargas'
-        self.web = 'http://bet03.me/'
+        self.web = ''
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'PHP', 'Flask', 'java'],
-            'database': ['MySQL', 'SQLite3'],
-            'tools': ['GIT', 'GitHub', 'Jupyter notebook'],
-            'frameworks': ['CodeIgniter', 'Ionic', 'Angular'],
-            'misc': ['SCRUM', 'GNU/Linux']
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'XML'],
+            'backend': ['Python', 'PHP', 'Flask', 'java', 'Kotlin'],
+            'database': ['MySQL', 'SQLite3', 'PosgreSQL'],
+            'tools': ['GIT', 'GitHub', 'Jira', 'Azure', 'Jupyter Notebook'],
+            'frameworks': ['CodeIgniter', 'Ionic', 'Angular', 'Spring Boot'],
+            'misc': ['SCRUM', 'Aguile', 'GNU/Linux', 'DevOps', 'DevSecOps']
         }
         self.languages = ['Spanish', 'English']
 
@@ -35,7 +35,7 @@ class Alberto_vgs:
 
 
 if __name__ == '__main__':
-    me = Alberto_vgs()
+    me = alberto_vgs()
 
 
 ```
