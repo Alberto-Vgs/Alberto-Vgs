@@ -22,10 +22,10 @@ class alberto_vgs:
         self.web = ''
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'XML'],
-            'backend': ['Python', 'PHP', 'Flask', 'java', 'Kotlin'],
+            'backend': ['Python', 'PHP', 'java', 'Kotlin'],
             'database': ['MySQL', 'SQLite3', 'PosgreSQL'],
             'tools': ['GIT', 'GitHub', 'Jira', 'Azure', 'Jupyter Notebook'],
-            'frameworks': ['CodeIgniter', 'Ionic', 'Angular', 'Spring Boot'],
+            'frameworks': ['CodeIgniter', 'Ionic', 'Angular', 'Spring Boot', 'Flask'],
             'misc': ['SCRUM', 'Aguile', 'GNU/Linux', 'DevOps', 'DevSecOps']
         }
         self.languages = ['Spanish', 'English']
