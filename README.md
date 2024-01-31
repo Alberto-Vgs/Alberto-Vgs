@@ -5,11 +5,11 @@
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
 </p>
 <div align="center">
-Hola amigo, gracias por pasar por aquí, yo soy Alberto Vargas.
-<p><em>Ingenieria en Software en <a href="https://upsrj.edu.mx/">Universidad Politecnica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Tecnico en Informatica en <a href="https://www.conalep.edu.mx/">Conalep</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p></div>
+    Hola amigo, gracias por pasar por aquí, yo soy Alberto Vargas.
+    <p><em>Ingenieria en Software</em></p>
+</div>
 
-<img align='right' src="https://c.tenor.com/k3BNIDqMr6QAAAAC/hacking-hacker.gif" width="330">
+<img align='right' src="https://media3.giphy.com/media/10jYACUrFLPQC4/giphy.webp?cid=ecf05e477doe0zsunq63rrc3bqcga047fxqx0kwppjo081gf&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="300">
 
 ```python
 import SoftwareDeveloper
@@ -39,12 +39,17 @@ if __name__ == '__main__':
 
 
 ```
+<div align="center">
+    <img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU3aXZyaDN5bWU0aTk5M3hucm45NTRjMTk0d3h0NGN6b25zY2t4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2zb0WWtOvwcwoBsAJ/giphy.gif" width="275">
 
-````bash
-> help --contact
-> linkedin: Alberto Vargas
-> instagram: alberto_vgs_
-> github: Alberto-Vgs
-> email: alberto_b03 [at] outlook.com
-````
-<em><b>¡Me encanta conectar con gente diferente <b>así que si quieres decir <b>hola, estaré encantado de conocerte más!</b> :)</em>
+    ````bash
+    > help --contact
+    > linkedin: Alberto Vargas
+    > instagram: alberto_vgs_
+    > github: Alberto-Vgs
+    > email: alberto_b03 [at] outlook.com
+    ````
+</div>
+<div align="center">
+    <em><b>¡Me encanta conectar con gente diferente <b>así que si quieres decir <b>hola, estaré encantado de conocerte más!</b> :)</em>
+</div>
