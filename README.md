@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 ```
 <div align="center">
-    <img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU3aXZyaDN5bWU0aTk5M3hucm45NTRjMTk0d3h0NGN6b25zY2t4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2zb0WWtOvwcwoBsAJ/giphy.gif" width="275">
+    <img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU3aXZyaDN5bWU0aTk5M3hucm45NTRjMTk0d3h0NGN6b25zY2t4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2zb0WWtOvwcwoBsAJ/giphy.gif" width="225">
 
     ````bash
     > help --contact
