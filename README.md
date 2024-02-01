@@ -39,15 +39,15 @@ if __name__ == '__main__':
 
 
 ```
-    <img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU3aXZyaDN5bWU0aTk5M3hucm45NTRjMTk0d3h0NGN6b25zY2t4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2zb0WWtOvwcwoBsAJ/giphy.gif" width="200">
+<img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU3aXZyaDN5bWU0aTk5M3hucm45NTRjMTk0d3h0NGN6b25zY2t4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2zb0WWtOvwcwoBsAJ/giphy.gif" width="200">
 
-````bash
+```bash
     > help --contact
     > linkedin: Alberto Vargas
     > instagram: alberto_vgs_
     > github: Alberto-Vgs
     > email: alberto_b03 [at] outlook.com
-````
+```
 <div align="center">
     <em><b>¡Me encanta conectar con gente diferente <b>así que si quieres decir <b>hola, estaré encantado de conocerte más!</b> :)</em>
 </div>
