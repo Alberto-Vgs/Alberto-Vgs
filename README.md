@@ -51,6 +51,6 @@ if __name__ == '__main__':
 <div align="center">
     <em><b>¡Me encanta conectar con gente diferente <b>así que si quieres decir <b>hola, estaré encantado de conocerte más!</b> :)</em>
     <hr />
-    
-- 📫 How to reach me **alberto_anime@outlook.com**
+
+📫 How to reach me **alberto_anime@outlook.com**
 </div>
