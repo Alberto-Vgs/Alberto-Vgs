@@ -50,4 +50,5 @@ if __name__ == '__main__':
 ```
 <div align="center">
     <em><b>¡Me encanta conectar con gente diferente <b>así que si quieres decir <b>hola, estaré encantado de conocerte más!</b> :)</em>
+    <em><b>How to reach me **alberto_anime@outlook.com**<b/></em>
 </div>
